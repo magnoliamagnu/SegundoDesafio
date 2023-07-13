@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Producto de ejemplo",
+        "description": "Descripción del producto",
+        "price": 9.99,
+        "thumbnail": "ruta/de/imagen.jpg",
+        "code": "ABC123",
+        "stock": 10
+    },
+    {
+        "title": "Producto de ejemplo",
+        "description": "Descripción del producto",
+        "price": 9.99,
+        "thumbnail": "ruta/de/imagen.jpg",
+        "code": "ABC123",
+        "stock": 10
+    },
+    {
+        "title": "Producto de ejemplo",
+        "description": "Descripción del producto",
+        "price": 9.99,
+        "thumbnail": "ruta/de/imagen.jpg",
+        "code": "ABC123",
+        "stock": 10
+    }
+]
